@@ -1,11 +1,6 @@
----
-lab:
-    title: 'Lab IGTI: Package Management with Azure Artifacts'
-    module: 'Module 07: Design and implement a dependency management strategy'
----
 
-# Lab 17: Package Management with Azure Artifacts
-# Student lab manual
+
+# Lab IGTI: Package Management with Azure Artifacts
 
 ## Lab overview
 
